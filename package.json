@@ -19,7 +19,7 @@
     "@react-navigation/stack": "^5.2.5",
     "axios": "^0.19.2",
     "himalaya": "^1.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "16.11.0",
     "react-native": "0.62.0",
     "react-native-gesture-handler": "^1.6.1",
